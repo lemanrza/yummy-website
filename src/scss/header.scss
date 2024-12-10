@@ -3,7 +3,9 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 1.3rem 8%;
-
+   position: fixed;
+   background-color: #fff;
+   width: 100%;
     .logo {
         color: black;
         font-size: 45px;
